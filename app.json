@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Stormy Service App",
-    "slug": "Stormy-Service-App",
+    "name": "Webview",
+    "slug": "Webview",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,10 +18,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.easy.builder"
+      "bundleIdentifier": "com.webview"
     },
     "android": {
-      "package": "com.easy.builder",
+      "package": "com.webview",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
